@@ -1,0 +1,1 @@
+# kirtasiye_uygulamasi
