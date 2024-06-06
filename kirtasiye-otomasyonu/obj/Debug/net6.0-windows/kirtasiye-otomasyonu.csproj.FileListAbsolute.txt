@@ -1,0 +1,255 @@
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\kirtasiye-otomasyonu.exe
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\kirtasiye-otomasyonu.deps.json
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\kirtasiye-otomasyonu.runtimeconfig.json
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\kirtasiye-otomasyonu.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\kirtasiye-otomasyonu.pdb
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form1.resources
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form2.resources
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form3.resources
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form4.resources
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiy.A06A97C1.Up2Date
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\refint\kirtasiye-otomasyonu.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.pdb
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.genruntimeconfig.cache
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\ref\kirtasiye-otomasyonu.dll
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form5.resources
+C:\Users\MONSTER\source\repos\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form6.resources
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\kirtasiye-otomasyonu.exe
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\kirtasiye-otomasyonu.deps.json
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\kirtasiye-otomasyonu.runtimeconfig.json
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\kirtasiye-otomasyonu.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\kirtasiye-otomasyonu.pdb
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form1.resources
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form2.resources
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form3.resources
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form4.resources
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form5.resources
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form6.resources
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiy.A06A97C1.Up2Date
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\refint\kirtasiye-otomasyonu.dll
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.pdb
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\Manav5 - 2\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\ref\kirtasiye-otomasyonu.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\kirtasiye-otomasyonu.exe
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\kirtasiye-otomasyonu.deps.json
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\kirtasiye-otomasyonu.runtimeconfig.json
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\kirtasiye-otomasyonu.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\kirtasiye-otomasyonu.pdb
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form1.resources
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form3.resources
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form4.resources
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form5.resources
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form6.resources
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiy.A06A97C1.Up2Date
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\refint\kirtasiye-otomasyonu.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.pdb
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye-otomasyonu.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\ref\kirtasiye-otomasyonu.dll
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form7.resources
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form8.resources
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form2.resources
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form9.resources
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form10.resources
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form11.resources
+C:\Users\MONSTER\Desktop\kirtasiye-otomasyonu\kirtasiye-otomasyonu\obj\Debug\net6.0-windows\kirtasiye_otomasyonu.Form12.resources
